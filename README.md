@@ -1,5 +1,5 @@
 # OpenBootcamp
-bootcamp online gratis https://campus.open-bootcamp.com/
+bootcamp online gratis https://open-bootcamp.com/
 
 # Tema-03
 <p>Funciones</p> <br>
