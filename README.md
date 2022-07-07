@@ -1,6 +1,6 @@
 # OpenBootcamp
 bootcamp online gratis https://campus.open-bootcamp.com/
 
-#Tema-03
-<h1>Funciones</h1> <br>
+# Tema-03
+<p>Funciones</p> <br>
 <p>url: https://github.com/jutaga/OpenBootcamp.git </p>
